@@ -544,16 +544,6 @@ body {
     margin: 0 auto;
   }
 
-  .service-content_inner {
-    width: 60%;
-    left: 10%;
-  }
-
-  .service-img {
-    width: 70%;
-    margin-left: 30%;
-  }
-
   .service-img_second {
     margin: 0 30% 0 0;
   }
